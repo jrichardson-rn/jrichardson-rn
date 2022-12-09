@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jrichardson-rn
-- 👀 I’m interested in ... LEARNING TO CODE LIKE A PRO
-- 🌱 I’m currently learning ... JAVASCRIPT
-- 💞️ I’m looking to collaborate on ... ANYHTHING
 - 📫 How to reach me ... JRICHARDSON18@YAHOO.COM 
 
 <!---
